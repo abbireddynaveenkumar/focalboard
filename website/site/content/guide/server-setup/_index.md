@@ -2,7 +2,7 @@
 title: "Server Setup Guide"
 date: "2021-01-21T12:01:23-04:00"
 section: "guide"
-weight: 1
+weight: 2
 ---
 
 If you haven't already, first follow the [install guide](/download/personal-edition/ubuntu/) to install the Focalboard server.
